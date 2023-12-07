@@ -1,0 +1,53 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.lable1 {
+  font-size: 30px;
+}
+
+.inputmain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.imagebox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: flex-start;
+  gap: 2em;
+}
+
+.inputbox {
+  position: relative;
+  text-align: center;
+  top: 20px;
+  width: 500px;
+  height: 40px;
+}
+.class0 {
+  width: 340px;
+  height: 200px;
+}
+.btnone {
+  display: inline;
+  position: relative;
+  height: 45px;
+  top: 20px;
+}
+
+.title {
+  color: black;
+  position: absolute;
+  top: 180px;
+}
+.maindiv {
+  display: flex;
+  position: relative;
+  top: 35px;
+  align-items: center;
+  justify-content: center;
+}
